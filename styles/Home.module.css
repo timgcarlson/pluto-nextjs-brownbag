@@ -114,3 +114,7 @@
     flex-direction: column;
   }
 }
+
+.subtitle {
+  color: red;
+}
